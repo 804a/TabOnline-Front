@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  color: #222;
+  background: #fafafa;
+}
+
+.page {
+  min-height: calc(100vh - 64px);
+  padding: 24px 32px;
+}
